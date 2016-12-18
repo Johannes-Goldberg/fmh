@@ -14,3 +14,4 @@ bookdown::gitbook:
       after: |
         <li><a href="https://docmurek.github.io/fmh/" target="blank">Published with bookdown</a></li>
     edit: https://github.com/docmurek/fmh/edit/master/%s
+    sharing: no
