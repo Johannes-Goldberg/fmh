@@ -48,19 +48,19 @@ Hidden within the posterior part of the sylvian fissure the transverse temporal 
 
 
 #### Figure 1
-![Transverse section of T1W-MRI: **blue:** superior frontal sulcus & precentral sulcus (L Sign), **red:** central sulcus (Omega Sign), **yellow:** marginal part of the cingulate sulcus or marginal sulcus (Pars-Bracket Sign), **green:** thickness of precentral & postcentral gyrus (Thin-Postcentral-Gyrus Sign)](figure/mri-landmarks-01.jpeg)
+![Transverse section of T1W-MRI: **blue:** superior frontal sulcus & precentral sulcus (L Sign), **red:** central sulcus (Omega Sign), **yellow:** marginal part of the cingulate sulcus or marginal sulcus (Pars-Bracket Sign), **green:** thickness of precentral & postcentral gyrus (Thin-Postcentral-Gyrus Sign)](figures/mri-landmarks-01.jpeg)
 
 #### Figure 2
-![Sagittal section of T1W-MRI: **orange:** inferior frontal gyrus (M Sign), **blue:** inferior frontal sulcus & precentral sulcus (T Sign), **red:** central sulcus, **yellow:** supramarginal gyrus, **green:** angular gyrus](figure/mri-landmarks-02.jpeg)
+![Sagittal section of T1W-MRI: **orange:** inferior frontal gyrus (M Sign), **blue:** inferior frontal sulcus & precentral sulcus (T Sign), **red:** central sulcus, **yellow:** supramarginal gyrus, **green:** angular gyrus](figures/mri-landmarks-02.jpeg)
 
 #### Figure 3
-![Sagittal section of T1W-MRI just off midline: **yellow:** cingulate gyrus with ascending marginal part, **red:** central sulcus, **purple:** parieto-occipital sulcus, **blue:** calcarine sulcus](figure/mri-landmarks-03.jpeg)
+![Sagittal section of T1W-MRI just off midline: **yellow:** cingulate gyrus with ascending marginal part, **red:** central sulcus, **purple:** parieto-occipital sulcus, **blue:** calcarine sulcus](figures/mri-landmarks-03.jpeg)
 
 #### Figure 4
-![Transverse section of T1W-MRI: **orange:** Transverse gyri of Heschl.](figure/mri-landmarks-06.jpeg)
+![Transverse section of T1W-MRI: **orange:** Transverse gyri of Heschl.](figures/mri-landmarks-06.jpeg)
 
 #### Figure 5
-![Superior view of 3D brain surface rendering. **blue:** superior frontal sulcus & precentral sulcus (L Sign), **red:** central sulcus (Omega Sign), **yellow:** marginal sulcus (Pars-Bracket Sign)](figure/mri-landmarks-04.jpeg)
+![Superior view of 3D brain surface rendering. **blue:** superior frontal sulcus & precentral sulcus (L Sign), **red:** central sulcus (Omega Sign), **yellow:** marginal sulcus (Pars-Bracket Sign)](figures/mri-landmarks-04.jpeg)
 
 #### Figure 6
-![Lateral view of 3D brain surface rendering. **orange:** inferior frontal gyrus (M Sign), **blue:** inferior frontal sulcus & precentral sulcus (T Sign), **red:** central sulcus (Omega Sign)](figure/mri-landmarks-05.jpeg)
+![Lateral view of 3D brain surface rendering. **orange:** inferior frontal gyrus (M Sign), **blue:** inferior frontal sulcus & precentral sulcus (T Sign), **red:** central sulcus (Omega Sign)](figures/mri-landmarks-05.jpeg)
