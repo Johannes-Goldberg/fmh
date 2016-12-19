@@ -13,6 +13,6 @@ bookdown::gitbook:
       before: |
         <li><a href="./">The FMH Book</a></li>
       after: |
-        <li><a href="https://docmurek.github.io/fmh/" target="blank">Published with bookdown</a></li>
+        <li><a href="https://docmurek.github.io/fmh/" target="blank">GitHub</a></li>
     edit: https://github.com/docmurek/fmh/edit/master/%s
     sharing: no
