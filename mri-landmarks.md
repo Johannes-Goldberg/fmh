@@ -1,16 +1,8 @@
----
-title: "A Guide to Cortical Landmarks in MRI"
-output:
-  word_document:
-    fig_caption: yes
-    reference_docx: template.docx
----
-
+# A Guide to Cortical Landmarks in MRI  
 The identification of eloquent brain areas comprises an integral part in the planning and execution of neurosurgical procedures. Cortical landmarks as seen on MRI can be applied for the localization of eloquent brain regions. This chapter illustrates methods for the identification of key anatomical landmarks based on their specific form, course and their relationship to adjacent structures.
 
 
-# Primary Motor and Sensory Cortex
-## Central Sulcus
+## Primary Motor and Sensory Cortex / Central Sulcus
 The central sulcus is a prominent landmark, separating the primary motor cortex in the precentral gyrus of the frontal lobe from the primary sensory cortex in the postcental gyrus of the parietal lobe. It is particularly well identifiable on transverse sections. The following signs help identify the central sulcus in transverse and sagittal sections _(fig. 1,2,3 | red)_.
 
 ### L Sign
@@ -29,8 +21,7 @@ On sagittal sections (fig. 3) the cingulate sulcus ascends in its antero-posteri
 The well identifiable inferior frontal sulcus (IFS) and the precentral sulcus (PCS) intersect almost perpendicular forming an upper case T tilted 90° clockwise (IFS-PCS-sign). The central sulcus is located immediately parallel and posterior to the roof of the T _(fig. 2)_.
 
 
-# Speech Associated Areas
-## Inferior Frontal Gyrus
+## Speech Associated Areas / Inferior Frontal Gyrus
 ### M Sign
 The inferior frontal gyrus forms a typical upper case M shape on sagittal sections. It can be subdivided into three macroanatomical parts from anterior to posterior represented by the legs of the upper case M (orbital, triangular and opercular). The triangular and opercular parts of the dominant hemisphere are active in semantic and word generation tasks and have become known as Broca's area _(fig. 2 | orange)_.
 
@@ -46,15 +37,13 @@ The silvian fissure ascends with its posterior ramus into the inferior parietal 
 Just inferior to the sylvial fissure lies the superior temporal gyrus and sulcus. The superior temporal sulcus ascends posteriorly, parallel to the silvian fissure. Its dorsal upswing is called the angular sulcus which is imbedded by the curved angular gyrus, that is situated directly posterior to the supramarginal gyrus.  The angular gyrus plays a role in language processing, arithmetics and spatial cognition. Demage to the angular gyrus of the dominant hemisphere can manifest as Gerstmann's syndrome _(fig. 2 | green)_.
 
 
-# Primary Visual Cortex
-## Calcarine Sulcus
+## Primary Visual Cortex / Calcarine Sulcus
 _(fig. 3 | blue)_
 ### Lazy-Y Sign
 <!-- Imaging of the Brain, Expert Radiology Series, Thomas P. Naidich -->
 The occipital and parietal lobes are separated by the perieto-occipital sulcus. It can be appreciated in just off midline sagittal sections and runs roughly parallel to the marginal sulcus in an oblique fashion from antero-inferior to supero-posterior (fig. 3 | purple). The calcarine sulcus runs from almost the occipital pole anteriorly where it ends just below the splenium of the corpus callosum (fig. 3 | blue). In its anterior part it is joined in an acute angle by the parieto-occipital sulcus  forming a 90° clockwise tilted lazy-Y. The banks of the calcarine sulcus contain the primary visual cortex _(fig. 3 | blue, purple)_.
 
-# Primary Auditory Cortex
-## Transverse Temporal Gyrus of Heschl
+## Primary Auditory Cortex / Transverse Temporal Gyrus of Heschl
 Hidden within the posterior part of the sylvian fissure the transverse temporal gyrus of Heschl is the first cortical structure to process incoming auditory information. It can be appreciated in transverse crossections as the first mediolaterally running gyrus of the temporal lobe, posterior to the insular cortex _(fig. 4 | orange)_.
 
 
