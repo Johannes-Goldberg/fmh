@@ -11,7 +11,7 @@ The superior frontal sulcus (SFS) joins in its antero-posterior course the prece
 ### Omega Sign
 The motor hand area is most often contained in a knob-like, posterior protuberance of the precentral gyrus, shaping the central sulcus into an inverted omega ‘℧’. It is also known as the 'middle-knee' of the precentral gyrus (Fig. \@ref(fig:t1-transverse)).
 
-### Thin-Postcentral-Gyrus Sign
+### Thin-Postcentral-Gyrus Sign JOHANNES
 The antero-posterior diameter of the postcentral gyrus is smaller than that of the precentral gyrus (Fig. \@ref(fig:t1-transverse)).
 
 ### Pars-Bracket Sign
