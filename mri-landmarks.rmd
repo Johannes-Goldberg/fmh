@@ -1,4 +1,4 @@
-# A Guide to Cortical Landmarks in MRI  
+# A Guide to Cortical Landmarks in MRI
 The identification of eloquent brain areas comprises an integral part in the planning and execution of neurosurgical procedures. Cortical landmarks as seen on MRI can be applied for the localization of eloquent brain regions. This chapter illustrates methods for the identification of key anatomical landmarks based on their specific form, course and their relationship to adjacent structures.
 
 
@@ -6,7 +6,7 @@ The identification of eloquent brain areas comprises an integral part in the pla
 The central sulcus is a prominent landmark, separating the primary motor cortex in the precentral gyrus of the frontal lobe from the primary sensory cortex in the postcental gyrus of the parietal lobe. It is particularly well identifiable on transverse sections. The following signs help identify the central sulcus in transverse and sagittal sections _(fig. 1,2,3 | red)_.
 
 ### L Sign
-The superior frontal sulcus (SFS) joins in its antero-posterior course the precentral sulcus (PCS) in an almost perpendicular fashion resembling an upper case ‘L’ (L Sign / SFS-PCS Sign). The central sulcus is the next posterior, parallel sulcus _(fig. 1 | blue)_.
+The superior frontal sulcus (SFS) joins in its antero-posterior course the precentral sulcus (PCS) in an almost perpendicular fashion resembling an upper case ‘L’ (L Sign / SFS-PCS Sign). The central sulcus is the next posterior, parallel sulcus \@ref(t1-sagittal)}.
 
 ### Omega Sign
 The motor hand area is most often contained in a knob-like, posterior protuberance of the precentral gyrus, shaping the central sulcus into an inverted omega ‘℧’. It is also known as the 'middle-knee' of the precentral gyrus _(fig. 1 | red)_.
@@ -51,6 +51,9 @@ Hidden within the posterior part of the sylvian fissure the transverse temporal 
 ![Transverse section of T1W-MRI: **blue:** superior frontal sulcus & precentral sulcus (L Sign), **red:** central sulcus (Omega Sign), **yellow:** marginal part of the cingulate sulcus or marginal sulcus (Pars-Bracket Sign), **green:** thickness of precentral & postcentral gyrus (Thin-Postcentral-Gyrus Sign)](figures/mri-landmarks-01.jpeg)
 
 #### Figure 2
+```{r t1-sagittal}
+knitr::include_graphics("figures/mri-landmarks-02.jpeg")
+```
 ![Sagittal section of T1W-MRI: **orange:** inferior frontal gyrus (M Sign), **blue:** inferior frontal sulcus & precentral sulcus (T Sign), **red:** central sulcus, **yellow:** supramarginal gyrus, **green:** angular gyrus](figures/mri-landmarks-02.jpeg)
 
 #### Figure 3
