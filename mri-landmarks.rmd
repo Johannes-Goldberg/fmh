@@ -3,16 +3,16 @@ The identification of eloquent brain areas comprises an integral part in the pla
 
 
 ## Primary Motor and Sensory Cortex / Central Sulcus
-The central sulcus is a prominent landmark, separating the primary motor cortex in the precentral gyrus of the frontal lobe from the primary sensory cortex in the postcental gyrus of the parietal lobe. It is particularly well identifiable on transverse sections. The following signs help identify the central sulcus in transverse and sagittal sections (Fig. \@ref(fig:t1-transverse, fig:t1-sagittal, fig:t1-median-sagittal)).
+The central sulcus is a prominent landmark, separating the primary motor cortex in the precentral gyrus of the frontal lobe from the primary sensory cortex in the postcental gyrus of the parietal lobe. It is particularly well identifiable on transverse sections. The following signs help identify the central sulcus in transverse and sagittal sections (Fig. \@ref(fig:t1-transverse), \@ref(fig:t1-sagittal), \@ref(fig:t1-median-sagittal)).
 
 ### L Sign
-The superior frontal sulcus (SFS) joins in its antero-posterior course the precentral sulcus (PCS) in an almost perpendicular fashion resembling an upper case ‘L’ (L Sign / SFS-PCS Sign). The central sulcus is the next posterior, parallel sulcus (Fig. \@ref(fig:t1-transverse).
+The superior frontal sulcus (SFS) joins in its antero-posterior course the precentral sulcus (PCS) in an almost perpendicular fashion resembling an upper case ‘L’ (L Sign / SFS-PCS Sign). The central sulcus is the next posterior, parallel sulcus (Fig. \@ref(fig:t1-transverse)).
 
 ### Omega Sign
-The motor hand area is most often contained in a knob-like, posterior protuberance of the precentral gyrus, shaping the central sulcus into an inverted omega ‘℧’. It is also known as the 'middle-knee' of the precentral gyrus (Fig. \@ref(fig:t1-transverse).
+The motor hand area is most often contained in a knob-like, posterior protuberance of the precentral gyrus, shaping the central sulcus into an inverted omega ‘℧’. It is also known as the 'middle-knee' of the precentral gyrus (Fig. \@ref(fig:t1-transverse)).
 
 ### Thin-Postcentral-Gyrus Sign
-The antero-posterior diameter of the postcentral gyrus is smaller than that of the precentral gyrus (Fig. \@ref(fig:t1-transverse).
+The antero-posterior diameter of the postcentral gyrus is smaller than that of the precentral gyrus (Fig. \@ref(fig:t1-transverse)).
 
 ### Pars-Bracket Sign
 On sagittal sections the cingulate sulcus ascends in its antero-posterior course to the surface of the parietal lobe and separates the paracentral lobule from the precuneus as the marginal sulcus. On reaching the cortical surface it forms a characteristic anteriorly opened bracket that can be appreciated on transverse sections. The central sulcus is situated immediately anterior and parallel to the bracket (Fig. \@ref(fig:t1-transverse), \@ref(fig:t1-median-sagittal)).
@@ -58,7 +58,7 @@ knitr::include_graphics('figures/mri-landmarks-03.jpeg')
 ```
 
 ## Primary Auditory Cortex / Transverse Temporal Gyrus of Heschl
-Hidden within the posterior part of the sylvian fissure the transverse temporal gyrus of Heschl is the first cortical structure to process incoming auditory information. It can be appreciated in transverse crossections as the first mediolaterally running gyrus of the temporal lobe, posterior to the insular cortex(Fig. \@ref(fig:t1-heschl)).
+Hidden within the posterior part of the sylvian fissure the transverse temporal gyrus of Heschl is the first cortical structure to process incoming auditory information. It can be appreciated in transverse crossections as the first mediolaterally running gyrus of the temporal lobe, posterior to the insular cortex (Fig. \@ref(fig:t1-heschl)).
 
 
 ```{r t1-heschl, echo=F, fig.cap='Transverse section of T1W-MRI: orange: Transverse gyri of Heschl'}
